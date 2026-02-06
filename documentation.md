@@ -1,3 +1,3 @@
 
 - ## FAQ
-    - [FAQ TODO](/docs/faq)
+    - [FAQ](/docs/faq)
